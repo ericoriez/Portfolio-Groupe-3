@@ -243,7 +243,7 @@ form {
     padding-left: 90px; /* La même taille que les libellés */
   }
   
-  button {
+  button {pddlogo
     /* Une marge supplémentaire représentant approximativement
        le même espace qu'entre les libellés et les champs. */
     margin-left: 0.5em;
@@ -271,6 +271,7 @@ div.contenth div.boxdroiteh{
 .borderhobyprint{
     border-radius: 28px;
 }
+
 
 .centerhob{
     vertical-align: top;
