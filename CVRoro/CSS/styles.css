@@ -243,7 +243,7 @@ form {
     padding-left: 90px; /* La même taille que les libellés */
   }
   
-  button {pddlogo
+  button {
     /* Une marge supplémentaire représentant approximativement
        le même espace qu'entre les libellés et les champs. */
     margin-left: 0.5em;
